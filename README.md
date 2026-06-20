@@ -35,7 +35,7 @@
 - **安全防护机制**：Guardrails 层确保问题在服务范围内，拒绝越界查询
 
 ### 核心功能
- 
+
 | 功能模块 | 说明 | 技术实现 |
 |---------|------|---------|
 | **全参微调** | 爬取和收集数据微调大模型 |  [微调厨神模型](https://pan.baidu.com/s/1vTYbUJb2feUQkb4hJdx7pg?pwd=zts4) |
@@ -173,7 +173,7 @@ npm run dev
 # 前端: http://localhost:5173 （可通过 VITE_PORT 修改端口）
 # 后端API: http://localhost:8000
 ```
- 
+
 ---
 
 
@@ -400,7 +400,7 @@ graph TB
 7. **安全防护**: 每个查询都经过 Guardrails 检查
 
 ---
- 
+
 ## 许可证
 
 本项目采用 [Apache License 2.0](LICENSE) 许可证。
@@ -423,7 +423,7 @@ graph TB
 - 问题反馈: https://github.com/skygazer42/skygazer42/issues
 - 邮箱: 207829897@qq.com
 
- 
+
 ---
 
 <div align="center">
